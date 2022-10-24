@@ -5,4 +5,4 @@ This has a small list of games to choose from and play!
 
 How to install: 
 
-https://replit.com/github/{user}/{repository}
+https://replit.com/https://github.com/BERTRDOM-SCHOOL/unblock/
