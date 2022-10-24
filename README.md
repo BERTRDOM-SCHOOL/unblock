@@ -1,4 +1,4 @@
-# unblock
+# Unblocked games site (Basic)
 
 This was made by Dominic/BERTRDOM!
 This has a small list of games to choose from and play!
